@@ -1,8 +1,11 @@
 {
-  "welcome": "Bienvenue",
-  "home": "Accueil",
+  "welcome": "Bienvenue dans le Template React Native",
+  "getStarted": "Commencez par éditer src/screens/HomeScreen.tsx",
+  "start": "Commencer",
   "settings": "Paramètres",
   "language": "Langue",
   "english": "Anglais",
-  "french": "Français"
+  "french": "Français",
+  "home": "Accueil",
+  "back": "Retour"
 } 
